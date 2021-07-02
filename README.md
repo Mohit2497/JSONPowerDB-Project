@@ -20,6 +20,6 @@
 
 ### Screenshots:
 
-![Dashboard](https://github.com/Mohit2497/JsonPowerDB-Project/blob/master/Assets/Screenshots/Dashboard.PNG)
+![Dashboard](https://github.com/Mohit2497/JsonPowerDB-Project/master/Assets/Screenshots/Dashboard.PNG)
 
-![Form](https://github.com/Mohit2497/JsonPowerDB-Project/blob/master/Assets/Screenshots/Form.PNG)
+![Form](https://github.com/Mohit2497/JsonPowerDB-Project/master/Assets/Screenshots/Form.PNG)
